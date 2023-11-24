@@ -11,10 +11,10 @@ Workshop about diffing in reverse-engineering. Static Binary Diffing, Dynamic Di
 
 ## Outline
 
- * Static
-  1. [Patch Diffing](static/patch_diffing/)
-  2. Diffing for detection
- * Dynamic 
-  1. Traces
-  2. Execution Counters
+### Static
+  1. [Patch Diffing](static/patch/)
+  2. [Diffing for detection](static/detection)
+### Dynamic 
+  1. [Traces](dynamic/traces)
+  2. [Execution Counters](dynamic/counters)
 
