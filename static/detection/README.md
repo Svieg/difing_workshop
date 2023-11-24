@@ -12,7 +12,7 @@ Vous avez deux samples de la meme famille de malware. Cependant, les deux sample
 ## Instructions
 
 1. Installer Ghidra, BinExport et BinDiff
-2. Creer un compte MalwareBazaar et chercher les samples
+2. Creer un compte [MalwareBazaar](https://bazaar.abuse.ch/) et chercher les samples
 3. Importer le binaire dans Ghidra
 4. Exporter le binaire sour la forme BinExport
 5. Repeter les etapes 2-3 pour le deuxieme binaire

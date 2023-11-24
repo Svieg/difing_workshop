@@ -1,4 +1,4 @@
-# Exercise 3 - Patch Diffing
+# Exercise 3 - Diffing de traces
 
 Vous avez 2 binaires, un vulnerable et un patched. Afin de trouver la patch et comprendre la vulnerabilite, faites un diff avec BinDiff!
 
