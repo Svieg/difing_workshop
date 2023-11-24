@@ -7,6 +7,7 @@ Vous avez deux samples de la meme famille de malware. Cependant, les deux sample
 * Ghidra
 * BinExport
 * BinDiff
+* [YARA](https://virustotal.github.io/yara/)
 
 ## Instructions
 
